@@ -2,3 +2,5 @@ helloWorld
 new Wolrd is open
 
 bugauga_TestCOmmit --amend-m
+
+test github push
